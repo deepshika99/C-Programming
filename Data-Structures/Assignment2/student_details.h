@@ -1,3 +1,11 @@
+/***************************************************************************************
+    Write a program to store student details in a data structure. 
+    Carry out transactions like insert, delete, and search an employee. 
+    For every transaction conducted, store the log details like type_of_operation, 
+    transaction_time, and transactions_date in a separate data structure. 
+    Count the number of insert and delete transactions that took place. Deallocate all the memory allocated dynamically. 
+    (Solve the above problem using a linked list)
+*****************************************************************************************/
 #define MAX_SIZE 25
 typedef struct _stud_
 {
