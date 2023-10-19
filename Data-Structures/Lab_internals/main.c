@@ -1,3 +1,12 @@
+/*******************************************************************************************************************
+X Institute offers an online course on MEMS Technology. 
+Courses are offered as beginner, intermediate, and expert. 
+The participants can register for any one of the courses. 
+Ensure that all participants are unique.
+Count the number of registrations in beginner, intermediate, and experienced courses.
+Deallocate all the memory before exiting the program.
+*******************************************************************************************************************/
+	
 #include<stdio.h>
 #include<stdlib.h>
 #include<assert.h>
